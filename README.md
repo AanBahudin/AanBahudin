@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aan Bahudin</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: <a src="https://www.linkedin.com/in/aan-bahudin-3153a0219/">Linkedin</a> /</h3>
 <p align="left">
 </p>
 
