@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Aan Bahudin</h1>
-<h3 align="center">A passionate frontend developer from Indonesia</h3>
+### Hi there 👋
+#### I am Junior Full Stack Developer
+
+👋 Hello! I'm Aan Bahudin, a dedicated and enthusiastic student with a passion for web development. With over 3 years of hands-on experience in the field, I've honed my skills in creating dynamic and responsive websites.
+
+💻 My expertise spans both frontend and backend development, making me a versatile developer capable of bringing complete web solutions to life. I have a strong command of technologies such as MongoDB, Express, Node.js, REST API development, and React JS.
 
 <h3 align="left">Connect with me: <a src="https://www.linkedin.com/in/aan-bahudin-3153a0219/">Linkedin</a> /</h3>
 <p align="left">
