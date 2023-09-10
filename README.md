@@ -6,6 +6,7 @@
 💻 My expertise spans both frontend and backend development, making me a versatile developer capable of bringing complete web solutions to life. I have a strong command of technologies such as MongoDB, Express, Node.js, REST API development, and React JS.
 
 <h3 align="left">Connect with me:</h3>
+
 - [LinkedIn](https://www.linkedin.com/in/aan-bahudin-3153a0219/)
 - [Twitter](https://twitter.com/AanBahudin2)
 - [Instagram](https://www.instagram.com/aanbahudin_/)
